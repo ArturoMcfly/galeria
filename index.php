@@ -27,6 +27,7 @@
                         <input id="my-input"  type="file" name="imagen">
                     </div>
                     <div class="form-group">
+                        <h1>Hola a todos</h1>
                         <label for="my-input">Titulo de la imagen</label>
                         <input class="form-control" type="text" name="titulo" id="my-input">
                     </div>
